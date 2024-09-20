@@ -115,8 +115,8 @@
 
 
 
-   <img src="josue.png" width="300" height="200"/>
-    <img src="angel.png" width="300" height="200"/>
+   <img src="josue.png" width="300" height="100"/>
+    <img src="angel.png" width="300" height="100"/>
 
      <video width="400" height="200" controls>
     <source src="galinas.mp4" type="video/mp4">
